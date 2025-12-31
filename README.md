@@ -21,7 +21,7 @@
 
 ### 📫 Connect With Me
 - Portfolio: 
-- LinkedIn: [https://www.linkedin.com/in/stephanie-hutama-957b69157/]
+- LinkedIn: [https://www.linkedin.com/in/stephanie-hutama/]
 - Email: [stephaniehutama@gmail.com]
 
 ---

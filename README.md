@@ -4,9 +4,14 @@
 3 years of experience building real-time fleet management applications
 
 ### 🛠️ Tech Stack
-- **Frontend:** Vue.js, Vuex, WebSockets, GraphQL
+- **Frontend:** Vue.js, React, JavaScript, TypeScript
+- **State Management:** Vuex, Pinia
+- **Styling:** Bootstrap, CSS
+- **Data & APIs:** GraphQL, REST API, WebSockets, Apollo Client
 - **Mapping:** Leaflet, Google Maps
-- **Tools:** Git, Apollo Client
+- **Build & Dev Tools:** Vite, Node.js, npm
+- **Code Quality:** ESLint, Prettier
+- **Tools:** Git, VS Code, Chrome DevTools, Postman, Service Workers
 
 ### 🚀 What I Build
 - Real-time fleet monitoring dashboards

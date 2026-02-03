@@ -20,7 +20,7 @@
 - Interactive mapping applications
 
 ### 📫 Connect With Me
-- Portfolio: 
+- Portfolio: [https://stephanie-clarissa-hutama.vercel.app/]
 - LinkedIn: [https://www.linkedin.com/in/stephanie-hutama/]
 - Email: [stephaniehutama@gmail.com]
 
